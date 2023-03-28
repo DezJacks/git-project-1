@@ -1,4 +1,4 @@
-﻿# git-project-1
+# git-project-1
 
 > My code for the git project
 
